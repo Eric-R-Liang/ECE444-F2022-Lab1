@@ -16,6 +16,9 @@ https://github.com/Eric-R-Liang/ECE444-F2022-EP<br/>
 **Activity 7**<br/>
 <img width="839" alt="Screen Shot 2022-09-18 at 4 13 13 PM" src="https://user-images.githubusercontent.com/39924702/190926767-907f5b43-8731-4e6f-9eba-7f8887b5cb44.png"><br/>
 ![Screen Shot 2022-09-18 at 4 20 26 PM](https://user-images.githubusercontent.com/39924702/190926773-e7d1a93f-2569-4a39-ae72-b1967981808f.png)<br/>
-**Activity 7**<br/>
+**Activity 8**<br/>
+<img width="845" alt="Screen Shot 2022-09-18 at 4 56 17 PM" src="https://user-images.githubusercontent.com/39924702/190927846-96e6a291-b8b2-43a4-94f5-2cb6464a8efa.png"><br/>
+![Screen Shot 2022-09-18 at 4 57 21 PM](https://user-images.githubusercontent.com/39924702/190927855-c8ba36cd-50d1-4be8-8263-b64872a9ff76.png)
+
 
 
