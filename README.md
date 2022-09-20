@@ -9,6 +9,8 @@
 ### **Activity 4**<br/>
 https://github.com/GauravRanganath/ECE444-F2022-Lab1<br/>
 ![Screen Shot 2022-09-20 at 4 37 51 PM](https://user-images.githubusercontent.com/39924702/191359812-517f925a-51b5-4a5c-a66a-b82728587f84.png)<br/>
+![Screen Shot 2022-09-20 at 4 59 11 PM](https://user-images.githubusercontent.com/39924702/191363425-2033168b-5b8e-4165-9de3-01577b4f4edb.png)<br/>
+![Screen Shot 2022-09-20 at 5 00 27 PM](https://user-images.githubusercontent.com/39924702/191363605-46c81c16-6206-45bf-a414-f063cdbf9bb3.png)<br/>
 
 ### **Activity 5**<br/>
 ![Screen Shot 2022-09-16 at 7 19 33 PM](https://user-images.githubusercontent.com/39924702/190830050-de361e4b-cbcc-43c5-a4b2-a220d2b1f921.png)<br/>
